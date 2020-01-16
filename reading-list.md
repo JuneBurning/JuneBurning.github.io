@@ -1,5 +1,5 @@
 ---
-title: Reading List
+title: 阅读列表
 subtitle: a list of books I read
 layout: "page"
 icon: fa-book
